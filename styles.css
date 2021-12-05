@@ -32,6 +32,11 @@ img{
   width: 320px;
 }
 
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
 .btn {
   background: #ffffff;
   background-image: -webkit-linear-gradient(top, #ffffff, #c4c4c4);
